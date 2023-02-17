@@ -1,0 +1,20 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    height: 100%;
+    width: 100%;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    color: #333;
+    background: #f5f5f5;
+}
+.spacer {
+    height: 80vh;
+    width: auto;
+    background: #f5f5f5;
+    margin: 25px;
+}
+.builder .form {
+    margin: 0 10px;
+}
